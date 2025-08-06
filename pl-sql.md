@@ -635,7 +635,7 @@ If @@Error<>0 THEN
 2. Usar indices --> Usa índices cuando tus consultas sean frecuentes y predecibles.
 		--> Evita indexar todo indiscriminadamente, porque cada INSERT, UPDATE, DELETE también afecta los índices.	  
 		--> Cada vez que haces un INSERT, UPDATE o DELETE, Oracle actualiza automáticamente los índices relacionados. (por eso las operaciones de escritura sean más lentas, Por eso, no se deben crear índices 		    innecesarios.)
-   		--> Indexa solo columnas que realmente mejoran consultas (WHERE, JOIN, ORDER BY).
+   		--> Indexa solo columnas que realmente mejoran consultas (WHERE, JOIN, ORDER BY, JOIN en ON).
                     Si tu tabla es muy de lectura (consultas), más índices ayudan.
  		    Si es muy de escritura (transacciones frecuentes), menos es más.
    
