@@ -269,3 +269,8 @@ Planes ya decididos
 - She is going to study. → Ella va a estudiar.
 - We are going to watch a movie. → Vamos a ver una película.
 - They are going to travel. → Ellos van a viajar.
+
+<img width="2358" height="1148" alt="image" src="https://github.com/user-attachments/assets/5a4477c7-fac7-4cfa-a6e4-15730153a781" />
+<img width="1758" height="1458" alt="image" src="https://github.com/user-attachments/assets/62ab842e-fe6e-4639-bc64-acfe4fb2a239" />
+<img width="2074" height="1116" alt="image" src="https://github.com/user-attachments/assets/0a3602a8-c922-4549-b032-38aa3158e8ae" />
+
