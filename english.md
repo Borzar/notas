@@ -254,7 +254,72 @@ Se usa para hábitos o estados del pasado que ya no ocurren. (solia)
 # 🔮 FUTURO
 
 ## 1️⃣ Will
-Decisiones del momento / promesas
+Decisiones del momento / promesas / Predicciones
+
+Will es un verbo auxiliar que se usa principalmente para hablar del futuro.
+
+### 📌 Estructura
+**Sujeto + will + verbo base**
+
+### Ejemplos
+- I will study tomorrow. → Estudiaré mañana
+- I will help you. → Te ayudare
+- I promise I will help you → Lo prometo te ayudare
+- I'll carry your bag. → Llevare tu bolso
+- I’ll help you with that. → Te ayudaré con eso.
+- Stop or I will call the police. → Detente o llamare a la policia
+
+---
+
+### Negaciones
+- 👉 will not = won’t
+
+### Ejemplos
+- I won’t go today. → No ire hoy
+- She won’t understand this. → Ella no entenderá esto.
+
+---
+
+### Preguntas con will
+### 📌 Estructura
+**Will + sujeto + verbo base**
+
+- Will you help me? → ¿Me ayudarás?
+- Will they come tomorrow? → ¿Vendrán mañana?
+
+Respuestas cortas:
+
+- Yes, I will
+- No, I won’t
+
+---
+
+### Will + Verbo To be
+To be es un verbo principal (ser / estar).
+
+### 📌 Estructura
+Cuando hablamos en futuro y el verbo es to be, se usa:
+
+***👉 will + be***
+
+### Forma base del verbo to be:
+
+- am / is / are → presente
+- was / were → pasado
+- ***be → forma base***
+
+### Ejemplos
+- I will be tired tomorrow. → Estaré cansado mañana
+- She will be a doctor. → Será doctora
+- They will be at home. → Estarán en casa
+
+| Tiempo | Ejemplo|
+|---------|-------|
+| Presente | I'm happy  |
+| Pasado | I was happy |
+| Futuro | I'll be happy |
+
+---
 
 ## 2️⃣ Going to
 Planes ya decididos
@@ -269,6 +334,8 @@ Planes ya decididos
 - She is going to study. → Ella va a estudiar.
 - We are going to watch a movie. → Vamos a ver una película.
 - They are going to travel. → Ellos van a viajar.
+
+---
 
 <img width="2358" height="1148" alt="image" src="https://github.com/user-attachments/assets/5a4477c7-fac7-4cfa-a6e4-15730153a781" />
 <img width="1758" height="1458" alt="image" src="https://github.com/user-attachments/assets/62ab842e-fe6e-4639-bc64-acfe4fb2a239" />
