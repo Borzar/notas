@@ -145,9 +145,21 @@ Significados WERE: **fueron / eran / estaban** (según contexto)
 
 Se usa con: **I / He / She / It**
 
+### 📌 Estructura (pasado simple)
+**Subject + was + complement**
+
+### 📌 Estructura (Pasado continuo)
+**Subject + was + verb-ing**
+
 - I was a baby.
-- He was tired.
+- He was tired. 
 - She was at home.
+- It was cold → Hacía frío.
+- I was studying → Yo estaba estudiando
+- He was working late → Él estaba trabajando tarde
+- She was watching TV
+
+> tired es un adjetivo
 
 Usos:
 - **era** → He was a teacher.
@@ -157,6 +169,7 @@ Usos:
 
 > **expresión fija** Es una forma natural y estándar de decir algo en inglés.
 > Aunque entiendas cada palabra, la traducción literal no funciona en español
+
 ---
 
 ## ✅ WERE
